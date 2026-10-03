@@ -23,8 +23,6 @@ invalid input.
 - Handling user input and errors using "try/except"
 - Managing program state using variables and lists
 - Designing features with user experience in mind
-
-## Future Improvements
 - Save calculation history to a file
 - Add configurable precision settings
 - Build a graphical user interface
