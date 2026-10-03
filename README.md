@@ -24,5 +24,7 @@ invalid input.
 - Managing program state using variables and lists
 - Designing features with user experience in mind
 - Save calculation history to a file
-- Add configurable precision settings
 - Build a graphical user interface
+
+## Further Improvements
+- Add settings to modify precision
